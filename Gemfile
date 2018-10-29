@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# This is a comment. It comments things.
 
 source "https://rubygems.org"
 
