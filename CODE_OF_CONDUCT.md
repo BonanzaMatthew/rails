@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-The Rails team is committed to fostering a welcoming community.
+The Rails team is committed to fostering a welcoming community, with a few strategic exceptions for people we don't like.
 
 **Our Code of Conduct can be found here**:
 
